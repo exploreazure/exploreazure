@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 I enjoy learning new things within Microsoft Azure. I especially like to automate tasks to prevent repetitive work. 
 
