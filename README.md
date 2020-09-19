@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I enjoy learning new things within Microsoft Azure. I especially like learning how to automate tasks to prevent repetitive work. 
+
 <!--
 **exploreazure/exploreazure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
