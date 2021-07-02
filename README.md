@@ -2,7 +2,7 @@
 
 I enjoy learning new things within Microsoft Azure. I especially like to automate tasks to prevent repetitive work. 
 
-
+[![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploreazure&show_icons=true&count_private=true)](https://github.com/exploreazure)
 
 <!--
 **exploreazure/exploreazure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
