@@ -2,7 +2,7 @@
 
 I enjoy learning new things within Microsoft Azure. I especially like to automate tasks to prevent repetitive work. 
 
-🌱 I’m currently learning Bicep - I am finding the syntax much easier, to understand and read, when compared to JSON templates. 
+🌱 I am currently learning Bicep - Finding the syntax much easier, to understand and read, when compared to JSON templates. 
 
 
 [![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploreazure&show_icons=true&count_private=true)](https://github.com/exploreazure)
