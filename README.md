@@ -4,8 +4,9 @@ I enjoy learning new things within Microsoft Azure. I especially like to automat
 
 - 🌱 I am currently learning Bicep - Finding the syntax much easier, to understand and read, when compared to JSON templates. 
 - 🌱 See my certifications on https://www.credly.com/users/barry-sharpen/badges
-- 🔭 I’m currently working with AKS 
-- 📫 How to reach me on [![Twitter][1.2]][1].
+- 🔭 I’m currently working with AKS
+- 💬 Here is a link to my blog https://www.exploreazure.co.uk/
+- 📫 How to reach me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
