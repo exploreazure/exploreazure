@@ -13,7 +13,7 @@ You can find me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/rsFZeHJ (twitter icon without padding)
+[1.2]: https://i.imgur.com/rsFZeHJ.png (twitter icon without padding)
 
 
 <!-- Links to your social media accounts -->
