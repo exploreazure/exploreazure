@@ -3,12 +3,9 @@
 I enjoy learning new things within Microsoft Azure. I especially like to automate tasks to prevent repetitive work. 
 
 - 🌱 I am currently learning Bicep - Finding the syntax much easier, to understand and read, when compared to JSON templates. 
-- 💰 See my certifications on https://www.credly.com/users/barry-sharpen/badges
+- 🌱 See my certifications on https://www.credly.com/users/barry-sharpen/badges
 - 🔭 I’m currently working with AKS 
-
-[![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploreazure&show_icons=true&count_private=true)](https://github.com/exploreazure)
-
-You can find me on [![Twitter][1.2]][1].
+- 📫 How to reach me on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
@@ -18,6 +15,10 @@ You can find me on [![Twitter][1.2]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/ExploreAzure
+
+
+[![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploreazure&show_icons=true&count_private=true)](https://github.com/exploreazure)
+
 
 
 
