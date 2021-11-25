@@ -9,6 +9,18 @@ I enjoy learning new things within Microsoft Azure. I especially like to automat
 [![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploreazure&show_icons=true&count_private=true)](https://github.com/exploreazure)
 
 
+You can find me on [![Twitter][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://imgur.com/rsFZeHJ (twitter icon without padding)
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/ExploreAzure
+
+
 
 
 <!--
